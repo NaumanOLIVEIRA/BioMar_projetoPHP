@@ -29,8 +29,7 @@ table {
 }
 
 .tabela {
-    border: 1;
-    max-width: 700px;
+    border: 1px;
 }
 
 td {
